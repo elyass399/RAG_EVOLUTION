@@ -1,0 +1,3 @@
+[CONTESTO: Questo manuale descrive le 17 regole fondamentali per giocare a calcio, coprendo aspetti come il campo, i giocatori, l'arbitro e le modalità di gioco.]
+
+Il pallone non potrà essere cambiato durante la  gara, senza l'autorizzazione dell'arbitro. 3) - Numero dei giocatori: La gara sarà giocata da due squadre, formate  ciascuna da un massimo di 11 calciatori, uno dei quali giocherà da portiere. Si  possono sostituire un certo numero di giocatori secondo le regole della  manifestazione a cui si prende parte.

@@ -1,0 +1,3 @@
+[CONTESTO: Le Guerre Puniche: tre conflitti che portarono Roma a dominare il Mediterraneo contro la potente Cartagine.]
+
+Per guadagnare il definitivo dominio sul Mar Mediterraneo i romani dovettero affrontare ancora in guerre minori i Greci e gli Iberici ( antichi abitanti della Spagna) ma alla fine poterono chiamare il Mediterraneo con l’appellativo di MARE NOSTRUM (il nostro mare). Espansione di Roma alla fine delle guerre puniche.

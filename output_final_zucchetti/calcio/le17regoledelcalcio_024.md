@@ -1,0 +1,3 @@
+[CONTESTO: Questo manuale descrive le 17 regole fondamentali per giocare a calcio, coprendo aspetti come il campo, i giocatori, l'arbitro e le modalità di gioco.]
+
+I calciatori della squadra  opposta a quella cui appartiene il calciatore che batte il calcio d'angolo non  possono avvicinarsi a meno di m.9,15 dal pallone fino a quando questo non sia  in giuoco, cioè fino a quando viene calciato e si muove. Il calciatore che ha  battuto il calcio d'angolo non può rigiocare il pallone fino a quando lo stesso  non è stato giocato o toccato da un altro calciatore..

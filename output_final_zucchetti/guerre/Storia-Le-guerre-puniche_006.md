@@ -1,0 +1,3 @@
+[CONTESTO: Le Guerre Puniche: tre conflitti che portarono Roma a dominare il Mediterraneo contro la potente Cartagine.]
+
+Le navi romane erano provviste di un ROSTRO, uno sperone di metallo fissato a prua, utilizzato per speronare le navi nemiche provocando squarci che affondavano la nave. Inoltre avevano un ponte mobile,  chiamato CORVO che si poteva manovrare e aveva una sorta di uncino o artiglio che agganciava la nave nemica.

@@ -1,0 +1,3 @@
+[CONTESTO: Questo manuale insegna a comunicare efficacemente con l'IA attraverso il Prompt Engineering, ottimizzando gli input per ottenere risultati di alta qualità e pertinenti.]
+
+Un prompt per il riassunto, uno per la poesia, uno per la biografia,  ecc. Questo permette all'IA di concentrarsi su un compito alla volta. (Opzionale) Mancanza di Indicazioni sul Formato dell'Output Se non si forniscono indicazioni chiare sul formato desiderato per la risposta, l'IA  potrebbe produrre un blocco di testo non strutturato, difficile da leggere o da  utilizzare, oppure un output troppo lungo o troppo conciso rispetto alle necessità.14 ●​ Esempio Negativo: Dammi i dati sulle vendite.

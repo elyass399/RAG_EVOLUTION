@@ -1,0 +1,3 @@
+[CONTESTO: Questo manuale descrive le 17 regole fondamentali per giocare a calcio, coprendo aspetti come il campo, i giocatori, l'arbitro e le modalità di gioco.]
+
+Il Regolamento della competizione deve  precisare il numero dei calciatori di riserva designabili, che può variare da 3 a 7  massimo. 4) - Equipaggiamento dei giocatori: L'equipaggiamento di base obbligatorio  di un calciatore comprende: maglia o camiciola, calzoncini, calzettoni,  parastinchi e calzature. Un calciatore non deve portare alcun oggetto  pericoloso per gli altri calciatori.

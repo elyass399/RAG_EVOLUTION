@@ -1,0 +1,3 @@
+[CONTESTO: Le Guerre Puniche: tre conflitti che portarono Roma a dominare il Mediterraneo contro la potente Cartagine.]
+
+Per molti anni i rapporti tra Roma e Cartagine erano stati pacifici, entrambe cercavano di non intralciare gli interessi dell’altra, ma Roma era ambiziosa ed aveva bisogno continuamente di nuove campagne militari per espandersi. Lo scontro tra Roma e Cartagine durò più di 100 anni e si consumò attraverso ben tre guerre.

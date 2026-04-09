@@ -1,0 +1,5 @@
+[CONTESTO: Questo manuale insegna a comunicare efficacemente con l'IA attraverso il Prompt Engineering, ottimizzando gli input per ottenere risultati di alta qualità e pertinenti.]
+
+Strutturare il Prompt: Organizzazione Logica Un prompt ben strutturato è più facile da elaborare per un LLM, proprio come un  testo ben organizzato lo è per un lettore umano. L'organizzazione logica del prompt  aiuta ad aumentare la chiarezza e la focalizzazione dell'output del modello.6 Si possono utilizzare elenchi puntati o numerati per scomporre istruzioni complesse, o  sezioni distinte per separare diversi tipi di informazione (es. istruzioni, dati di input,
+
+esempi).6 L'uso di delimitatori chiari, come virgolette triple (```), virgolette singole o  doppie (""), o parentesi angolari (<>), è una tecnica efficace per separare e  distinguere le diverse parti del prompt, come le istruzioni dal testo da elaborare o il  contesto dagli esempi.11 Questo aiuta il modello a capire meglio cosa deve essere  processato e come.

@@ -1,0 +1,3 @@
+[CONTESTO: Questo manuale descrive le 17 regole fondamentali per giocare a calcio, coprendo aspetti come il campo, i giocatori, l'arbitro e le modalità di gioco.]
+
+Il tempo varia nelle gare del settore  giovanile. 8) - Calcio d'inizio: il lancio in aria di una moneta decide la scelta del campo  in cui giocare e stabilisce chi batte il calcio d'inizio. Tutti i giocatori devono  essere nella propria metà campo, i giocatori della squadra avversaria devono  stare 9,15 Mt. dal pallone.

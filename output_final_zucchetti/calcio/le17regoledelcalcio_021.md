@@ -1,0 +1,3 @@
+[CONTESTO: Questo manuale descrive le 17 regole fondamentali per giocare a calcio, coprendo aspetti come il campo, i giocatori, l'arbitro e le modalità di gioco.]
+
+Il portiere non potrà ricevere tra le mani il pallone su calcio di  rinvio, al fine di rilanciarlo in giuoco. Se il pallone non è stato calciato  all'esterno dell'area di rigore, ossia direttamente in giuoco, il calcio di rinvio  deve essere ripetuto. Una rete può essere segnata direttamente su calcio di  rinvio.

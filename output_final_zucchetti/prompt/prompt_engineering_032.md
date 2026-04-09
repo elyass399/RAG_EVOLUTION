@@ -1,0 +1,5 @@
+[CONTESTO: Questo manuale insegna a comunicare efficacemente con l'IA attraverso il Prompt Engineering, ottimizzando gli input per ottenere risultati di alta qualità e pertinenti.]
+
+L'IA potrebbe restituire i dati come  un paragrafo descrittivo, mentre l'utente magari si aspettava una tabella.  ●​ Consiglio/Correzione: Fornisci i dati sulle vendite dell'ultimo trimestre per i  prodotti A, B e C, presentandoli in formato tabellare con le seguenti colonne:  Prodotto, Unità Vendute, Ricavo Totale. La seguente tabella riassume questi errori comuni e come correggerli, collegandoli ai  principi fondamentali del prompt engineering:
+
+Evitare questi errori comuni, prestando attenzione ai principi di chiarezza, specificità,  struttura e definizione dell'output, migliorerà drasticamente l'efficacia delle interazioni  con l'intelligenza artificiale.

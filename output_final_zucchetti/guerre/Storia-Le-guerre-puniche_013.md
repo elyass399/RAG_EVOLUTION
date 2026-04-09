@@ -1,0 +1,3 @@
+[CONTESTO: Le Guerre Puniche: tre conflitti che portarono Roma a dominare il Mediterraneo contro la potente Cartagine.]
+
+LA TERZA GUERRA PUNICA (149 A.C. 146 A.C.) Malgrado la dura sconfitta, Cartagine riprese velocemente la sua attività di commerci via mare. Roma comprese allora che Cartagine avrebbe sempre rappresentato un pericolo e così usando un pretesto, decise di punirla ancora più duramente.

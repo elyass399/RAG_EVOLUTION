@@ -1,0 +1,3 @@
+[CONTESTO: Questo manuale insegna a comunicare efficacemente con l'IA attraverso il Prompt Engineering, ottimizzando gli input per ottenere risultati di alta qualità e pertinenti.]
+
+I Pilastri di un Prompt Efficace Come in ogni arte o disciplina, anche il prompt engineering si basa su alcuni principi  fondamentali. Comprendere e applicare questi pilastri è essenziale per creare prompt  che guidino efficacemente l'intelligenza artificiale.

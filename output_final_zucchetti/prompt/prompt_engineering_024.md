@@ -1,0 +1,5 @@
+[CONTESTO: Questo manuale insegna a comunicare efficacemente con l'IA attraverso il Prompt Engineering, ottimizzando gli input per ottenere risultati di alta qualità e pertinenti.]
+
+Se la domanda è complessa o richiede una conoscenza di  background, fornire tale contesto può migliorare la qualità della risposta. Per problemi  che richiedono una soluzione articolata, si può chiedere all'IA di spiegare il proprio  ragionamento passo-passo.1 ●​ Prompt Prima (Generico):​ Parlami del cambiamento climatico.​
+
+Limiti: L'argomento è vastissimo; la risposta sarà probabilmente una panoramica  generale e superficiale.  ●​ Prompt Dopo (Migliorato):​ Secondo l'ultimo rapporto dell'IPCC (Intergovernmental Panel on Climate  Change), quali sono le tre principali cause antropogeniche del cambiamento  climatico osservato? Elencale utilizzando dei punti elenco e, per ciascuna causa,  fornisci una breve spiegazione scientifica (massimo 50 parole per causa).​ Punti di forza: La domanda è estremamente specifica (cause antropogeniche,  secondo l'IPCC), richiede un formato di output preciso (punti elenco, spiegazione  breve) e implica un contesto di autorevolezza scientifica (IPCC).

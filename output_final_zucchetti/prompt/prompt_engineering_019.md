@@ -1,0 +1,3 @@
+[CONTESTO: Questo manuale insegna a comunicare efficacemente con l'IA attraverso il Prompt Engineering, ottimizzando gli input per ottenere risultati di alta qualità e pertinenti.]
+
+Analizzeremo alcuni scenari comuni,  mostrando come un prompt generico (il "prima") possa essere trasformato in un  prompt molto più efficace (il "dopo") applicando quanto appreso. Questi esempi non  solo dimostrano il "come fare", ma illustrano anche il "perché funziona", rafforzando la  comprensione dei concetti in un contesto applicativo e facilitando il trasferimento di  queste competenze a nuove situazioni.

@@ -1,0 +1,3 @@
+[CONTESTO: Le Guerre Puniche: tre conflitti che portarono Roma a dominare il Mediterraneo contro la potente Cartagine.]
+
+La battaglia decisiva si combattè a Zama in Africa e fu vinta dai romani, il console Scipione in onore di quella straordinaria vittoria, da allora conquistò il soprannome di l’Africano. Roma impose una RESA DURISSIMA a Cartagine che perse le sue colonie in Spagna e in Africa, inoltre i romani imposero un controllo totale, non avrebbero potuto dichiarare guerra a nessuno senza aver prima ricevuto il permesso da Roma.

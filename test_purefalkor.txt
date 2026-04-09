@@ -1,0 +1,92 @@
+👤 Tu: Quali sono le regole riguardo alla durata massima di 15 minuti?
+🔎 [DEBUG] Analisi multivariata per: ['QUALI', 'SONO', 'REGOLE', 'RIGUARDO', 'ALLA', 'MASSIMA', 'MINUTI']
+📊 [DEBUG] Recuperati 5 paragrafi e 4 fatti.
+🛡️ [CHECK] Il contesto contiene dati numerici/date? SÌ
+🧐 Ragionamento multimodale...
+
+🤖 Risposta:
+Il testo fornito non contiene informazioni sulla durata massima di 15 minuti. Si menziona solo che una gara sarà giocata da due squadre, ciascuna formata da un massimo di 11 giocatori, e che il regolamento della competizione deve precisare il numero di giocatori di riserva designabili, che può variare da 3 a 7.            
+                                                                                                                                                                  
+                                                                                                                                                                  
+👤 Tu: Qual è la differenza tra Zero-shot prompting e Few-shot prompting secondo il manuale?
+🔎 [DEBUG] Analisi multivariata per: ['QUAL', 'DIFFERENZA', 'ZERO', 'SHOT', 'PROMPTING', 'SHOT', 'PROMPTING', 'SECONDO', 'MANUALE']
+📊 [DEBUG] Recuperati 5 paragrafi e 13 fatti.
+🛡️ [CHECK] Il contesto contiene dati numerici/date? SÌ
+🧐 Ragionamento multimodale...
+
+🤖 Risposta:
+Secondo il manuale, lo **Zero-shot prompting** consiste nel fornire all'IA un'istruzione o una domanda diretta senza esempi aggiuntivi, basandosi unicamente sulla sua conoscenza pregressa. Funziona bene per compiti semplici o domande a cui il modello è stato ampiamente esposto.
+
+Il **Few-shot prompting**, invece, prevede di fornire al modello 2 o più esempi di coppie input-output per dimostrare il compito che deve svolgere, prima di presentare la richiesta effettiva. È utile per compiti più complessi o quando si desidera che l'IA segua un formato o uno stile specifico.                             
+                                                                                                                                                                  
+                                                                                                                                                                  
+👤 Tu: Perché l'uso di delimitatori è considerato una tecnica efficace nella scrittura di un prompt?
+🔎 [DEBUG] Analisi multivariata per: ['PERCHÉ', 'DELIMITATORI', 'CONSIDERATO', 'TECNICA', 'EFFICACE', 'NELLA', 'SCRITTURA', 'PROMPT']
+📊 [DEBUG] Recuperati 5 paragrafi e 8 fatti.
+🛡️ [CHECK] Il contesto contiene dati numerici/date? SÌ
+🧐 Ragionamento multimodale...
+
+🤖 Risposta:
+L'uso di delimitatori chiari, come virgolette triple (```), virgolette singole o doppie (), o parentesi angolari (<>), è considerato una tecnica efficace perché aiuta il modello a capire meglio cosa deve essere processato e come, separando e distinguendo le diverse parti del prompt (istruzioni dal testo da elaborare o il contesto dagli esempi).                                                                                                                                            
+                                                                                                                                                                  
+                                                                                                                                                                  
+👤 Tu: Cosa accadde a Cartagine dopo la sconfitta definitiva a Zama?
+🔎 [DEBUG] Analisi multivariata per: ['COSA', 'ACCADDE', 'CARTAGINE', 'DOPO', 'SCONFITTA', 'DEFINITIVA', 'ZAMA']
+📊 [DEBUG] Recuperati 5 paragrafi e 11 fatti.
+🛡️ [CHECK] Il contesto contiene dati numerici/date? SÌ
+🧐 Ragionamento multimodale...
+
+🤖 Risposta:
+Dopo la sconfitta a Zama, Roma impose a Cartagine una resa durissima. Cartagine perse le sue colonie in Spagna e in Africa e i Romani imposero un controllo totale, vietando a Cartagine di dichiarare guerra senza il permesso di Roma.                                                                                            
+                                                                                                                                                                  
+                                                                                                                                                                  
+👤 Tu: Quale errore commise Annibale dopo la vittoria di Canne e quali furono le conseguenze per Roma?
+🔎 [DEBUG] Analisi multivariata per: ['ERRORE', 'COMMISE', 'ANNIBALE', 'DOPO', 'VITTORIA', 'CANNE', 'QUALI', 'FURONO', 'CONSEGUENZE', 'ROMA']
+📊 [DEBUG] Recuperati 5 paragrafi e 19 fatti.
+🛡️ [CHECK] Il contesto contiene dati numerici/date? SÌ
+🧐 Ragionamento multimodale...
+
+🤖 Risposta:
+Dopo la vittoria di Canne, Annibale commise l'errore di non attaccare subito Roma per darle il tempo di riorganizzarsi. Si ritirò con il suo esercito a Capua (in Campania) per far riposare i suoi soldati, convinto che la vittoria fosse ormai vicina.
+
+Questo permise al Senato romano di riorganizzare le proprie forze, raccogliere gli uomini rimasti e affidare il comando al console Scipione, che usò uno stratagemma per spostare lo scenario della guerra in Africa minacciando Cartagine. Cartagine, preoccupata, richiamò subito Annibale e il suo esercito in patria, salvando Roma.                                                                                                                                                              
+                                                                                                                                                                  
+                                                                                                                                                                  
+👤 Tu: Qual è il peso massimo e minimo consentito per il pallone all'inizio della gara?
+🔎 [DEBUG] Analisi multivariata per: ['QUAL', 'PESO', 'MASSIMO', 'MINIMO', 'CONSENTITO', 'PALLONE', 'INIZIO', 'DELLA', 'GARA']
+📊 [DEBUG] Recuperati 5 paragrafi e 18 fatti.
+🛡️ [CHECK] Il contesto contiene dati numerici/date? SÌ
+🧐 Ragionamento multimodale...
+
+�� Risposta:                                                                                                                                                      
+Il pallone deve avere un peso massimo di gr. 450 e un peso minimo di gr. 410 all'inizio della gara.                                                               
+                                                                                                                                                                  
+                                                                                                                                                                  
+👤 Tu: Di quali materiali devono essere fatti i parastinchi e come devono essere indossati?
+🔎 [DEBUG] Analisi multivariata per: ['QUALI', 'MATERIALI', 'DEVONO', 'ESSERE', 'FATTI', 'PARASTINCHI', 'COME', 'DEVONO', 'ESSERE', 'INDOSSATI']
+📊 [DEBUG] Recuperati 5 paragrafi e 8 fatti.
+🛡️ [CHECK] Il contesto contiene dati numerici/date? SÌ
+🧐 Ragionamento multimodale...
+
+🤖 Risposta:
+I parastinchi devono essere fatti di gomma, plastica o poliuretano o sostanze analoghe. Devono essere completamente coperti dai calzettoni e garantire un sufficiente livello di protezione.                                                                                                                                        
+                                                                                                                                                                  
+                                                                                                                                                                  
+👤 Tu: È possibile cambiare il pallone durante la gara senza il fischio dell'arbitro?
+🔎 [DEBUG] Analisi multivariata per: ['POSSIBILE', 'CAMBIARE', 'PALLONE', 'DURANTE', 'GARA', 'SENZA', 'FISCHIO', 'DELL', 'ARBITRO']
+📊 [DEBUG] Recuperati 5 paragrafi e 18 fatti.
+🛡️ [CHECK] Il contesto contiene dati numerici/date? SÌ
+🧐 Ragionamento multimodale...
+
+�� Risposta:                                                                                                                                                      
+No, il pallone non può essere cambiato durante la gara senza l'autorizzazione dell'arbitro (paragrafo 2).                                                         
+                                                                                                                                                                  
+                                                                                                                                                                  
+👤 Tu: Si può segnare una rete direttamente su rimessa dalla linea laterale?
+🔎 [DEBUG] Analisi multivariata per: ['SEGNARE', 'RETE', 'DIRETTAMENTE', 'RIMESSA', 'DALLA', 'LINEA', 'LATERALE']
+📊 [DEBUG] Recuperati 5 paragrafi e 9 fatti.
+🛡️ [CHECK] Il contesto contiene dati numerici/date? SÌ
+🧐 Ragionamento multimodale...
+
+🤖 Risposta:
+No, una rete non può essere segnata direttamente su rimessa dalla linea laterale.

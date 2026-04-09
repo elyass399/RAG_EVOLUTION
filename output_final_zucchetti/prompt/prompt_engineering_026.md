@@ -1,0 +1,3 @@
+[CONTESTO: Questo manuale insegna a comunicare efficacemente con l'IA attraverso il Prompt Engineering, ottimizzando gli input per ottenere risultati di alta qualità e pertinenti.]
+
+Piccoli Errori, Grandi Differenze: Cosa Evitare Anche con le migliori intenzioni, è facile commettere piccoli errori nella formulazione  dei prompt che possono però portare a grandi differenze nella qualità dell'output. Conoscere gli errori più comuni è il primo passo per evitarli.

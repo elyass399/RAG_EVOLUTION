@@ -1,0 +1,3 @@
+[CONTESTO: Questo manuale descrive le 17 regole fondamentali per giocare a calcio, coprendo aspetti come il campo, i giocatori, l'arbitro e le modalità di gioco.]
+
+In entrambi i casi gli avversari devono essere ad una distanza di  9,15 Mt. nel momento in cui la punizione viene battuta. Se chi sta per calciare  la punizione non chiede la distanza può calciare, senza il fischio dell'arbitro. 14) - Calcio di rigore: Il calcio di rigore deve essere battuto dal punto del  calcio di rigore.

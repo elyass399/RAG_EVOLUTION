@@ -1,0 +1,3 @@
+[CONTESTO: Questo manuale insegna a comunicare efficacemente con l'IA attraverso il Prompt Engineering, ottimizzando gli input per ottenere risultati di alta qualità e pertinenti.]
+
+Un prompt che manca di chiarezza e specificità  lascerà all'IA troppo margine di interpretazione, portando inevitabilmente a risposte  vaghe, generiche o irrilevanti.7 ●​ Esempio Negativo: Parlami di marketing. Questo prompt è troppo ampio.

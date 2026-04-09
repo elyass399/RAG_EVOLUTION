@@ -1,0 +1,3 @@
+[CONTESTO: Questo manuale insegna a comunicare efficacemente con l'IA attraverso il Prompt Engineering, ottimizzando gli input per ottenere risultati di alta qualità e pertinenti.]
+
+L'iterazione, a sua volta, è il processo attraverso cui si affinano  sinergicamente tutti questi elementi. 3. Tecniche di Prompt Engineering per Iniziare Ora che abbiamo compreso i principi fondamentali, passiamo a esplorare alcune  tecniche pratiche di prompt engineering.

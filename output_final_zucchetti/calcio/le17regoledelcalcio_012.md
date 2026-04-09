@@ -1,0 +1,3 @@
+[CONTESTO: Questo manuale descrive le 17 regole fondamentali per giocare a calcio, coprendo aspetti come il campo, i giocatori, l'arbitro e le modalità di gioco.]
+
+Chi tocca per primo il pallone non può colpirlo una  seconda volta prima che non sia calciato da un altro giocatore. Nel secondo  tempo le squadre si scambieranno il campo e giocherà il pallone la squadra che  non l'aveva battuto ad inizio gara. 9) - Pallone in gioco e non in gioco: è in gioco se colpisce i pali della porta,  l'asta della bandierina del corner; se colpisce l'arbitro o i guardalinee  nell'interno del campo; fino a quando l'arbitro non decide di interrompere il  gioco.

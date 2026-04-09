@@ -1,0 +1,3 @@
+[CONTESTO: Questo manuale insegna a comunicare efficacemente con l'IA attraverso il Prompt Engineering, ottimizzando gli input per ottenere risultati di alta qualità e pertinenti.]
+
+Prompt Engineering per Principianti: Dialoga Efficacemente  con l'Intelligenza Artificiale 1. Introduzione al Mondo del Prompt Engineering minuti) Per iniziare il nostro viaggio nel prompt engineering, è essenziale comprendere alcuni  concetti di base che formano le fondamenta di questa disciplina. Cosa Sono gli LLM e i Prompt? (Concetti base) Al centro dell'attuale rivoluzione dell'intelligenza artificiale troviamo i Large Language  Models (LLM), o Modelli Linguistici di Grandi Dimensioni.

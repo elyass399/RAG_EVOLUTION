@@ -1,0 +1,3 @@
+[CONTESTO: Questo manuale descrive le 17 regole fondamentali per giocare a calcio, coprendo aspetti come il campo, i giocatori, l'arbitro e le modalità di gioco.]
+
+I parastinchi obbligatori per tutti, che devono  essere completamente coperti dai calzettoni, devono essere di un materiale  adeguato (gomma, plastica, poliuretano o sostanze analoghe) e devono  garantire un sufficiente livello di protezione. Il portiere deve indossare la  maglia di un colore che lo distingua dagli altri calciatori e dall'arbitro. 5) - L'arbitro: Per la direzione di ogni gara deve essere designato un arbitro.

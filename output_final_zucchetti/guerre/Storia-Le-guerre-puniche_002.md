@@ -1,0 +1,3 @@
+[CONTESTO: Le Guerre Puniche: tre conflitti che portarono Roma a dominare il Mediterraneo contro la potente Cartagine.]
+
+Cartagine era un ex colonia fenicia, situata nel nord Africa, più o meno dove oggi sorge la città di Tunisi. Grazie alla posizione geografica molto favorevole e alla tradizione di commercio navale del suo popolo, Cartagine aveva rapporti commerciali con tutto il Mediterraneo, in particolare con le colonie della Magna Grecia nel sud dell’Italia e possedeva proprie colonie in Sardegna, Sicilia, In Spagna e nel nord Africa.

@@ -1,0 +1,3 @@
+[CONTESTO: Questo manuale descrive le 17 regole fondamentali per giocare a calcio, coprendo aspetti come il campo, i giocatori, l'arbitro e le modalità di gioco.]
+
+Prima di essere battuto, tutti i calciatori - tranne colui  designato al tiro (debitamente identificato) e il portiere avversario - devono  rimanere all'interno del terreno di giuoco ma fuori dell'area di rigore, ad  almeno m.9,15 (10 yards) dal punto del calcio di rigore e più indietro del punto  stesso. Il portiere avversario deve trovarsi sulla propria linea di porta, fra i pali  della stessa di fronte a chi batte, fino a quando non viene calciato il pallone.

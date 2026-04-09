@@ -1,0 +1,11 @@
+falkor://host.docker.internal:6379
+
+-Vedere la gerarchia del Calcio:
+MATCH (n:Concept)-[r]->(m) WHERE r.source CONTAINS 'calcio' RETURN *
+-Trovare i nodi più importanti (i "Hub"):
+MATCH (c:Concept) RETURN c.name, COUNT((c)--()) AS connections ORDER BY connections DESC LIMIT 5
+-Vedere come Annibale è collegato alla Storia:
+MATCH (p {name: 'ANNIBALE'})-[r]->(m) RETURN *
+
+
+venv\Scripts\activate.bat

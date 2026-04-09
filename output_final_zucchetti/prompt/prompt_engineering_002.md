@@ -1,0 +1,3 @@
+[CONTESTO: Questo manuale insegna a comunicare efficacemente con l'IA attraverso il Prompt Engineering, ottimizzando gli input per ottenere risultati di alta qualità e pertinenti.]
+
+Si tratta di sofisticati motori  di IA che sono stati addestrati analizzando enormi quantità di testo e codice. Questa  formazione intensiva conferisce loro la capacità di comprendere, generare e  manipolare il linguaggio umano con una fluidità sorprendente.1 Possono scrivere  articoli, rispondere a domande, tradurre lingue, creare codice e molto altro ancora.

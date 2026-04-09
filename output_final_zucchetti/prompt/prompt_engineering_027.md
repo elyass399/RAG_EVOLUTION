@@ -1,0 +1,3 @@
+[CONTESTO: Questo manuale insegna a comunicare efficacemente con l'IA attraverso il Prompt Engineering, ottimizzando gli input per ottenere risultati di alta qualità e pertinenti.]
+
+Spesso, questi errori  derivano da una mancata applicazione dei pilastri fondamentali discussi in  precedenza, evidenziando come una solida comprensione dei principi sia la migliore  prevenzione. Prompt Vaghi o Ambigui Questo è l'errore più frequente.

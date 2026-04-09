@@ -1,0 +1,3 @@
+[CONTESTO: Le Guerre Puniche: tre conflitti che portarono Roma a dominare il Mediterraneo contro la potente Cartagine.]
+
+Quando Cartagine, disobbedendo al patto stretto con Roma, dichiarò guerra ad un popolo vicino, Roma ne approfittò per attaccarla. Inviò in Africa le proprie legioni, guidate dal figlio adottivo di Scipione l’Africano, cioè Scipione l’Emiliano, il quale asseddiò Cartagine e su ordine del Senato di Roma la RASE AL SUOLO.

@@ -1,0 +1,3 @@
+[CONTESTO: Questo manuale insegna a comunicare efficacemente con l'IA attraverso il Prompt Engineering, ottimizzando gli input per ottenere risultati di alta qualità e pertinenti.]
+
+Per ciascun titolo, fornisci anche una breve descrizione  (1-2 frasi) che ne spieghi il contenuto.​ Punti di forza: Il prompt fornisce un contesto dettagliato sul blog e sul target, è  specifico sul numero di idee ("5 titoli") e sul formato dell'output (titoli +  descrizioni). Ottenere Risposte a Domande Specifiche Per ottenere risposte precise a domande specifiche, è cruciale formulare la domanda  in modo inequivocabile.

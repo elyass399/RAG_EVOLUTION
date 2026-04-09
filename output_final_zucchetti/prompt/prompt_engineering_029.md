@@ -1,0 +1,3 @@
+[CONTESTO: Questo manuale insegna a comunicare efficacemente con l'IA attraverso il Prompt Engineering, ottimizzando gli input per ottenere risultati di alta qualità e pertinenti.]
+
+L'IA  potrebbe parlare di storia del marketing, di strategie digitali, di marketing B2B,  ecc., senza sapere cosa interessa realmente all'utente.  ●​ Consiglio/Correzione: Descrivi 3 strategie di content marketing efficaci che le  piccole imprese nel settore dei servizi B2B possono implementare con un budget  limitato. Questo prompt è specifico sul tipo di marketing (content), sul target  (piccole imprese B2B), e su un vincolo (budget limitato).

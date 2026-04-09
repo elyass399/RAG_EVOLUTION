@@ -1,0 +1,3 @@
+[CONTESTO: Le Guerre Puniche: tre conflitti che portarono Roma a dominare il Mediterraneo contro la potente Cartagine.]
+
+ROMA CONQUISTA  IL MEDITERRANEO: LE GUERRE PUNICHE Dopo aver conquistato l’intera penisola italica, Roma cominciò a guardare con interesse al Mar Mediterraneo. Ma la situazione era complessa, infatti il Mediterraneo era allora sotto l’influenza di una grande potenza commerciale, la città di Cartagine.

@@ -1,0 +1,3 @@
+[CONTESTO: Questo manuale descrive le 17 regole fondamentali per giocare a calcio, coprendo aspetti come il campo, i giocatori, l'arbitro e le modalità di gioco.]
+
+Colui che batte il calcio di rigore deve calciare il pallone in avanti e non potrà  giocarlo una seconda volta fino a quando lo stesso non sarà stato giocato o  toccato da un altro calciatore. Il pallone sarà considerato in giuoco non  appena avrà percorso una distanza pari alla sua circonferenza.
