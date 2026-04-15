@@ -1,0 +1,114 @@
+👤 Tu: chi è annibale
+🎯 Router: Filtro attivato su -> Storia-Le-guerre-puniche.md
+✍️  Generazione risposta di alta precisione...
+
+🤖 AI:
+Sulla base dei documenti forniti, Annibale può essere identificato come il leader dell'esercito cartaginese, le cui azioni sono descritte nei seguenti dettagli:
+
+*   **Successi militari e la battaglia di Canne:** Annibale guidò i Cartaginesi alla vittoria nella battaglia di Canne (situata in Puglia), dove riuscì ad annientare le legioni romane.
+*   **Errore strategico:** Nonostante la vittoria a Canne, Annibale commise quello che viene definito il suo unico errore: invece di attaccare immediatamente Roma per impedirle di riorganizzarsi, scelse di ritirarsi per un lungo periodo a Capua (in Campania) con il suo esercito. Questa decisione fu presa con l'intento di far riposare i suoi soldati, poiché egli era convinto che la vittoria fosse ormai vicina.                                                                          
+*   **Rientro in patria:** A causa dello stratagemma utilizzato dal console Scipione, il quale spostò lo scenario della guerra in Africa minacciando direttamente Cartagine, Annibale fu richiamato subito in patria insieme al suo esercito.                                                                                       
+                                                                                                                                                                  
+�� Tempo totale: 91.28s                                                                                                                                           
+👤 Tu: cos'è il fuori gioco 
+🎯 Router: Filtro attivato su -> le17regoledelcalcio.md
+✍️  Generazione risposta di alta precisione...
+
+🤖 AI:
+Un giocatore è in fuori gioco se si trova senza pallone, in posizione vicina alla linea della porta avversaria, a meno che non si verifichi una delle seguenti condizioni:
+
+*   il giocatore si trovi nella propria metà campo;
+*   vi siano due giocatori avversari tra la porta e il giocatore stesso;                                                                                          
+*   il pallone sia stato toccato per ultimo da un avversario;                                                                                                     
+*   il giocatore riceva il pallone direttamente da un calcio d'angolo;                                                                                            
+*   il giocatore riceva il pallone qualora sia stato rimesso in gioco dall'arbitro.                                                                               
+                                                                                                                                                                  
+�� Tempo totale: 85.01s                                                                                                                                           
+👤 Tu: durata della seconda guerra punica
+🎯 Router: Filtro attivato su -> Storia-Le-guerre-puniche.md
+��  Generazione risposta di alta precisione...                                                                                                                    
+                                                                                                                                                                  
+�� AI:                                                                                                                                                            
+La seconda guerra punica è durata dal 218 A.C. al 202 A.C.                                                                                                        
+                                                                                                                                                                  
+�� Tempo totale: 83.15s                                                                                                                                           
+👤 Tu: come scrivere una prompt ideale
+🎯 Router: Filtro attivato su -> prompt_engineering.md
+✍️  Generazione risposta di alta precisione...
+
+🤖 AI:
+Per scrivere un prompt ideale, è necessario applicare i principi del **Prompt Engineering**, inteso come l'arte e la scienza di progettare e ottimizzare gli input per guidare l'intelligenza artificiale verso risultati di alta qualità, pertinenti e specifici. Un prompt ideale non è una semplice interrogazione, ma il risultato di un processo strategico e riflessivo.
+
+Ecco i dettagli su come strutturare un prompt perfetto basandosi sui pilastri fondamentali:
+
+### 1. Principi Cardine: Chiarezza e Specificità
+Il segreto per un prompt efficace risiede nell'unire chiarezza e specificità, eliminando ogni ambiguità.
+*   **Evitare la vaghezza:** Non utilizzare linguaggi "soffici" o descrizioni imprecise (es. "parlami di qualcosa di interessante"). Un prompt ideale deve essere preciso (es. "spiegami il concetto di buco nero in termini semplici per un bambino di 10 anni").
+*   **Essere diretti:** Utilizzare un vocabolario semplice e istruzioni dirette, evitando gerghi non necessari, a meno che non siano specifici del dominio e comprensibili al modello.
+*   **Specificare i dettagli:** Un prompt efficace deve definire il tipo di marketing, il target e i vincoli (es. invece di "parlami di marketing", utilizzare "descrivi 3 strategie di content marketing efficaci per piccole imprese nel settore B2B con un budget limitato").
+
+### 2. L'Uso del Contesto
+Fornire un contesto adeguato è fondamentale per "guidare" l'IA e impedirle di fare ipotesi errate.
+*   **Fornire background:** Includere informazioni di background rilevanti, lo scopo della richiesta e il pubblico di destinazione.
+*   **Esempio di contesto:** Invece di chiedere genericamente una "descrizione di un prodotto", è ideale specificare che si tratta di uno "smartphone ecologico, destinato a un pubblico giovane e attento alla sostenibilità, evidenziando il basso impatto ambientale".
+
+### 3. Tecniche di Prompting Avanzate
+Le tecniche possono essere combinate tra loro, come "mattoncini Lego", per costruire prompt più sofisticati.
+*   **Instruction Prompting (Istruzioni Chiare):**
+    *   Utilizzare **verbi d'azione** chiari all'inizio del prompt, come: "Elenca...", "Descrivi...", "Analizza...", "Riassumi...", "Traduci...", "Crea...", "Spiega...".
+    *   Formulare le istruzioni in modo **affermativo**: dire all'IA cosa fare piuttosto che cosa non fare (es. invece di "non includere dettagli tecnici", utilizzare "fornisci una panoramica generale... in 3 punti elenco").
+*   **Role Prompting (Assegnazione di un Ruolo):**
+    *   Assegnare all'IA un'identità o una "persona" specifica (es. "Agisci come un esperto di marketing digitale" o "Rispondi come uno storico specializzato nel Rinascimento"). Questo influenza lo stile, il tono, il livello di dettaglio e la base di conoscenza utilizzata.
+
+### 4. Struttura e Organizzazione Logica
+Un prompt ben strutturato è più facile da elaborare per un LLM.
+*   **Organizzazione logica:** Utilizzare elenchi puntati o numerati per scomporre istruzioni complesse.
+*   **Separazione delle informazioni:** Utilizzare sezioni distinte per separare diversi tipi di informazioni, come istruzioni, dati di input e format.
+*   **Definizione dell'output:** Indicare chiaramente il formato desiderato (es. una tabella con colonne specifiche come "Prodotto", "Unità Vendute", "Ricavo Totale") per evitare blocchi di testo non strutturati o difficili da usare.
+
+### 5. Processo di Ottimizzazione e Errori da Evitare
+La creazione del prompt ideale è un processo iterativo.
+*   **Iterazione:** L'iterazione non è un fallimento, ma una componente essenziale per affinare gli elementi del prompt e ottimizzare il risultato.
+*   **Evitare il sovraccarico (Multiple Instructions):** Non inserire troppe richieste non correlate in un unico prompt (es. riassumere, scrivere una poesia e fornire una biografia contemporaneamente). È molto meglio suddividere la richiesta in **prompt separati e sequenziali** per permettere all'IA di concentrarsi su un compito alla volta.                                                                                                                                                
+*   **Approccio graduale:** Per i principianti, è consigliabile iniziare con prompt semplici e aggiungere gradualmente complessità, testando e affinando la richiesta passo dopo passo.                                                                                                                                             
+                                                                                                                                                                  
+�� Tempo totale: 22.84s                                                                                                                                           
+👤 Tu: cos'è il prompt engeneering
+🎯 Router: Filtro attivato su -> prompt_engineering.md
+✍️  Generazione risposta di alta precisione...
+
+🤖 AI:
+Sulla base dei documenti forniti, il **prompt engineering** può essere definito come un processo che trasforma un tentativo casuale in una **metodologia strutturata**, rendendo accessibili a tutti risultati di intelligenza artificiale di alta qualità. Non si tratta di un insieme di regole fisse, ma di un **processo iterativo** che richiede sperimentazione, osservazione dei risultati e un affinamento continuo dei prompt attraverso il ciclo "prova, impara, migliora".
+
+Di seguito sono dettagliati i pilastri, le tecniche e gli errori associati a questa disciplina:
+
+### 1. Principi Fondamentali
+*   **Chiarezza e Specificità:** È il principio cardine. Un prompt efficace deve essere formulato in modo che l'IA comprenda esattamente cosa è richiesto, evitando linguaggi vaghi, "soffici" o ambigui che lasciano troppo margine di interpretazione. L'uso di un vocabolario semplice e di istruzioni dirette è consigliabile.
+*   **Il Potere del Contesto:** Fornire informazioni di background, dettagli sullo scopo della richiesta o sul pubblico di destinazione funge da "guida" per l'IA, aiutandola a comprendere le sfumature del compito e riducendo il rischio che il modello debba fare ipotesi errate.
+*   **Organizzazione Logica (Strutturazione):** Un prompt ben strutturato facilita l'elaborazione per l'LLM. È possibile utilizzare elenchi puntati o numerati per scomporre istruzioni complesse o sezioni distinte per separare istruzioni, dati di input ed esempi.
+
+### 2. Tecniche Avanzate di Prompting
+*   **Role Prompting:** Assegnare un ruolo specifico all'IA (ad esempio, "Agisci come un redattore scientifico esperto") per orientare il tono e la competenza della risposta.
+*   **Instruction Prompting:** Fornire istruzioni precise su cosa fare (es. "Estrai e riassumi i 3 concetti fondamentali").
+*   **Definizione dell'Output Desiderato:** Essere espliciti riguardo a:
+    *   **Formato:** (es. lista puntata, tabella, codice JSON, paragrafo narrativo, saggio).
+    *   **Lunghezza:** (es. "massimo 100 parole", "una risposta di tre frasi").
+    *   **Stile o Tono:** (es. "formale e accademico", "colloquiale e amichevole", "umoristico").
+    *   **Pubblico di destinazione:** (es. "spiega a un bambino di 5 anni" o "scrivi per un esperto del settore").
+*   **Uso di Delimitatori:** Utilizzare simboli come virgolette triple (```), virgolette singole o doppie ("" o '') o parentesi angolari (<>) per separare chiaramente le diverse parti del prompt (istruzioni, contesto, testo da elaborare).
+*   **Scomposizione (Decomposition):** Per compiti complessi, è utile suddividere la richiesta in una sequenza di sotto-compiti più semplici, presentandoli come passaggi distinti o attraverso una serie di prompt interattivi.
+
+### 3. Errori Comuni da Evitare
+*   **Prompt Vaghi o Ambigui:** La mancanza di chiarezza porta a risposte generiche, irrilevanti o troppo ampie.
+*   **Sovraccarico di Istruzioni (Multiple Instructions):** Inserire troppi compiti distinti e non correlati in un unico prompt può confondere l'IA, portandola a rispondere in modo superficiale o a ignorare alcune parti della richiesta. In questi casi, è meglio utilizzare prompt separati e sequenziali.                     
+*   **Mancanza di Indicazioni sul Formato:** Senza istruzioni specifiche, l'IA potrebbe produrre output non strutturati, troppo lunghi o troppo concisi rispetto alle necessità dell'utente (ad esempio, restituire un paragrafo descrittivo quando sarebbe stata necessaria una tabella).                                          
+                                                                                                                                                                  
+�� Tempo totale: 19.90s                                                                                                                                           
+👤 Tu: chi è donald trump
+🎯 Router: Filtro attivato su -> Ricerca Globale
+✍️  Generazione risposta di alta precisione...
+
+🤖 AI:
+Sulla base del contesto fornito, non è possibile rispondere alla domanda, in quanto i documenti non contengono alcuna informazione riguardante Donald Trump.
+
+⏱️ Tempo totale: 11.11s

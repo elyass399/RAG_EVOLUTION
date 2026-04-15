@@ -1,1 +1,0 @@
-{"model": "gemma3:27b-it-qat", "messages": [{"role": "system", "content": "Sei un classificatore."}, {"role": "user", "content": "Data la domanda: 'Informazioni e dettagli storici o tecnici su exit', scegli il manuale: 'calcio', 'guerre', 'prompt'. Rispondi solo con la parola."}], "temperature": 0}

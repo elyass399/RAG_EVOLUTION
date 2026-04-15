@@ -12,7 +12,7 @@ qdrant = QdrantClient(url="http://localhost:6333")
 falkor = FalkorDB(host='localhost', port=6379)
 graph = falkor.select_graph('ZucchettiKnowledgeGraph')
 COLLECTION = "zucchetti_knowledge_base"
-LLM_MODEL = "gemma3:27b-it-qat"
+LLM_MODEL = "gemma3:4b"
 
 def _ps_invoke(url_suffix, payload):
     api_key = os.getenv("LITELLM_API_KEY")

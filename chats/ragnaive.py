@@ -34,7 +34,7 @@ def get_query_vector(text):
 
 def ask_gemma(context, question):
     prompt = f"Usa questo contesto:\n{context}\n\nRispondi alla domanda: {question}"
-    res = _ps_invoke("chat/completions", {"model": "gemma3:27b-it-qat", "messages": [{"role": "user", "content": prompt}]})
+    res = _ps_invoke("chat/completions", {"model": "gemma4:e4b", "messages": [{"role": "user", "content": prompt}]})
     return res['choices'][0]['message']['content'] if res else "Errore"
 
 # --- RERANKER SEMPLICE (Logica Python) ---

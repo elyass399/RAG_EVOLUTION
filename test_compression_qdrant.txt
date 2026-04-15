@@ -1,0 +1,95 @@
+👤 Tu: chi è annibale
+🎯 Router: Direzione -> Storia-Le-guerre-puniche.md
+✍️  Sintesi in corso...
+
+�� AI:                                                                                                                                                            
+In base ai documenti forniti, Annibale è colui che, durante la battaglia di Canne, commise forse il suo unico errore: invece di attaccare subito Roma dopo che i Cartaginesi avevano annientato le legioni romane, si ritirò per un lungo periodo con il suo esercito a Capua per far riposare i suoi soldati, convinto che la vittoria fosse vicina.                                                                                                                                                 
+                                                                                                                                                                  
+�� Tempo risposta: 87.14s                                                                                                                                         
+👤 Tu: cos'è il fuori gioco
+🎯 Router: Direzione -> le17regoledelcalcio.md
+✍️  Sintesi in corso...
+
+🤖 AI:
+Un giocatore è in fuori gioco se si trova senza pallone, vicino la linea della porta avversaria, a meno che:
+* egli si trovi nella propria metà campo;                                                                                                                         
+* vi siano due giocatori avversari tra la porta e lui;                                                                                                            
+* il pallone sia stato toccato per ultimo da un avversario;                                                                                                       
+* riceva il pallone direttamente da un calcio d'angolo o qualora sia stato rimesso dall'arbitro.                                                                  
+                                                                                                                                                                  
+�� Tempo risposta: 87.00s                                                                                                                                         
+👤 Tu: come scrivere una prompt ideale
+🎯 Router: Direzione -> prompt_engineering.md
+✍️  Sintesi in corso...
+
+🤖 AI:
+Per scrivere un prompt ideale, è necessario applicare le tecniche di **Prompt Engineering**, ovvero l'arte e la scienza di progettare e ottimizzare gli input per guidare l'intelligenza artificiale verso la produzione di risultati di alta qualità, pertinenti e specifici.
+
+In base al contesto fornito, ecco le linee guida per strutturare un prompt efficace:
+
+### 1. Definire chiarezza e specificità
+* **Evitare l'ambiguità:** Un prompt non deve essere troppo ampio o vago (es. evitare "Parlami di marketing"). Bisogna essere specifici sul tipo di argomento, sul target e sui vincoli (es. specificare un budget limitato).
+* **Fornire contesto:** Soprattutto per il brainstorming o per domande complesse, è fondamentale fornire informazioni di background e definire il tipo di idee o risposte richieste.
+
+### . Utilizzare tecniche di strutturazione (Role e Instruction Prompting)
+* **Role Prompting:** Assegnare un ruolo all'IA (es. "Agisci come un redattore scientifico esperto") per orientare il livello di competenza.
+* **Instruction Prompting:** Fornire istruzioni dirette e inequivocabili sull'azione da compiere (es. "Estrai e riassumi").
+* **Uso di delimitatori:** Utilizzare simboli come virgolette triple (```), virgolette singole o doppie ("") o parentesi angolari (<>) per separare chiaramente le istruzioni dal testo da elaborare o dal contesto.
+
+### 3. Definire l'Output Desiderato
+Per evitare risposte non strutturate o inadatte, è necessario specificare:
+* **Formato:** Richiedere esplicitamente liste puntate, tabelle (specificando le colonne), codice JSON, paragrafi narrativi o saggi.
+* **Lunghezza:** Indicare un limite (es. "massimo 100 parole" o "una risposta di tre frasi").
+* **Stile e tono:** Specificare se il tono deve essere formale, accademico, colloquiale, amichevole o umoristico.
+* **Pubblico di destinazione:** Indicare a chi è rivolta la risposta (es. "spiega a un bambino di 5 anni" o "scrivi per un esperto").
+
+### 4. Gestire la complessità e il carico di lavoro
+* **Evitare il sovraccarico:** Non inserire troppe istruzioni diverse e non correlate in un unico prompt, poiché l'IA potrebbe rispondere in modo superficiale. È meglio suddividere la richiesta in prompt separati e sequenziali.
+* **Scomposizione dei compiti:** Per compiti complessi, scomporre la richiesta in una sequenza di sotto-compiti più semplici o chiedere all'IA di spiegare il proprio ragionamento passo-passo.
+                                                                                                                                                                  
+### 5. Adottare un approccio iterativo                                                                                                                            
+Il prompt engineering è un processo di **"Prova, Impara, Migliora"**. Non esiste una regola fissa che garantisca il successo al primo tentativo; è essenziale sperimentare, osservare i risultati e affinare continuamente il prompt per migliorarne la precisione e la pertinenza.                                                 
+                                                                                                                                                                  
+�� Tempo risposta: 99.16s                                                                                                                                         
+👤 Tu: durata della terza guerra punica
+🎯 Router: Direzione -> Storia-Le-guerre-puniche.md
+��  Sintesi in corso...                                                                                                                                           
+                                                                                                                                                                  
+�� AI:                                                                                                                                                            
+La terza guerra punica durò dal 149 a.C. al 146 a.C.                                                                                                              
+                                                                                                                                                                  
+�� Tempo risposta: 81.76s                                                                                                                                         
+👤 Tu: chi è cristiano ronaldo
+🎯 Router: Direzione -> le17regoledelcalcio.md
+✍️  Sintesi in corso...
+
+🤖 AI:
+Il contesto fornito non contiene informazioni su chi sia Cristiano Ronaldo.
+
+⏱️ Tempo risposta: 7.54s
+👤 Tu: Quali sono le misure esatte di lunghezza e larghezza del campo esclusivamente per le gare internazionali?
+🎯 Router: Direzione -> le17regoledelcalcio.md
+✍️  Sintesi in corso...
+
+�� AI:                                                                                                                                                            
+Per le gare internazionali, le misure del campo devono essere: una lunghezza massima di 110 m e una minima di 100 m, e una larghezza massima di 75 m e una minima di 64 m.                                                                                                                                                          
+                                                                                                                                                                  
+�� Tempo risposta: 83.68s                                                                                                                                         
+�� Tu: Secondo la tabella degli errori comuni, perché chiedere la 'storia completa di Roma antica' è considerato un errore e quale tecnica specifica suggerisce il manuale per correggere questo tipo di prompt?
+🎯 Router: Direzione -> prompt_engineering.md
+✍️  Sintesi in corso...
+                                                                                                                                                                  
+�� AI:                                                                                                                                                            
+Il contesto fornito non contiene informazioni relative all'esempio specifico della "storia completa di Roma antica". Pertanto, non è possibile indicare perché tale richiesta sia considerata un errore o quale tecnica suggerita dal manuale servirebbe a correggerla basandosi esclusivamente sui documenti allegati.             
+                                                                                                                                                                  
+�� Tempo risposta: 93.89s                                                                                                                                         
+👤 Tu: Spiegami chi ha vinto la battaglia di Zama, quale soprannome ha ottenuto il vincitore e cosa è successo a Cartagine dopo la sconfitta.
+🎯 Router: Direzione -> Storia-Le-guerre-puniche.md
+✍️  Sintesi in corso...
+
+🤖 AI:
+La battaglia di Zama, combattuta in Africa, fu vinta dai romani. In seguito a questa straordinaria vittoria, il console Scipione ottenne il soprannome di "l Africano".
+
+Dopo la sconfitta, a Cartagine fu imposta una resa durissima: la città perse le sue colonie in Spagna e in Africa e fu sottoposta a un controllo totale da parte di Roma, che le proibì di dichiarare guerra a chiunque senza aver prima ricevuto il permesso romano.
+
+⏱️ Tempo risposta: 90.27s
